@@ -1,0 +1,13 @@
+
+img{
+    border-radius: 50px 50px 50px 50px;
+    margin: 20px;
+    margin-top: 25px;
+    margin-left: 40px;
+}
+p{
+    font-size: 75px;
+}
+body{
+    background-image: url(./ground.jpg);
+}
